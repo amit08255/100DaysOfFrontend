@@ -10,3 +10,5 @@
 - [Day 0](#day-0)
 
 ## Day 0
+
+Practical on CSS selectors. Studied and practiced how CSS selectors work.
