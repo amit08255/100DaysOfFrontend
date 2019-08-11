@@ -7,6 +7,6 @@
 
 ## Table of Contents
 
-- [Day 0](#day0)
+- [Day 0](#day-0)
 
 ## Day 0
