@@ -1,0 +1,91 @@
+
+/* Set color red to every direct child to HTML body tag */
+body > p{
+	color: red;
+}
+
+
+/* Draw a red border around the element with class first-div */
+.first-div{
+	border: 2px solid red;
+}
+
+
+/* This style works only when a div with class first-div has a paragraph as its first child
+	Set color of that paragraph to blue */
+div.first-div > p:first-child{
+	color: blue;
+}
+
+/* This style selects the paragraph (under element with class first-div) when a paragraph is directly preceded by another paragraph*/
+.first-div p+p{
+	color: brown;
+}
+
+
+/* This style selects first line of paragraph which is first child of element under class with first-div and sets it font-style to italic*/
+.first-div > p:first-child::first-line{
+	font-style: italic;
+}
+
+
+/* Draw a blue border around the element with class second-div */
+.second-div{
+	border: 2px solid blue;
+}
+
+/* This style selects all paragraph (under element with class second-div) when a paragraph is preceded by another paragraph, 
+not necesarily directly preceded by another sibling paragraph */
+.second-div p~p{
+	color: green;
+}
+
+/* This style selects first letter of all paragraph under element with class second-div and set its font weight and font style */
+.second-div > p::first-letter{
+	font-weight: bold;
+	font-style: italic;
+}
+
+/* Sets color of normal link */
+a:link{
+	color: red;
+}
+
+/* Sets color of visited link */
+a:visited{
+	color: orange;
+}
+
+/* Set color of link when hover*/
+a:hover{
+	color: green;
+}
+
+/* Selects all div which has class attribute in it and sets its font size to 20px*/
+div[class]{
+	font-size: 20px;
+}
+
+/* This style selects all em tag which comes inside paragraph and is preceded by span tag which has attribute lang whose value starts with en and
+the span tag comes inside an element with class second-div*/
+.second-div span[lang|="en"] + p em{
+	font-style: normal;
+	font-weight: bold;
+	color: orange;
+}
+
+/*Selects all link whose href attribute value begins with http:// */
+a[href^="http://"]{
+	color: blue;
+}
+
+/*Selects all link which has href attribute and its title attribute contain word yahoo and set its color to black when user hover over it */
+a[href][title~="yahoo"]:hover{
+	color: black;
+}
+
+
+/* Selects all img tag whose src value ends with .png and set its height to 100px */
+img[src$=".png"]{
+	height: 100px;
+}
