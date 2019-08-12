@@ -8,7 +8,14 @@
 ## Table of Contents
 
 - [Day 0](#day-0)
+- [Day 1](#day-1)
 
 ## Day 0
 
 Practical on CSS selectors. Studied and practiced how CSS selectors work.
+https://github.com/amit08255/100DaysOfFrontend/commit/430acfb551a43ff226d264a1c58d387bd3b08cd5
+
+## Day 1
+
+Practical on font formatting in CSS. Worked on basic font formatting.
+

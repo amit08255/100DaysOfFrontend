@@ -1,0 +1,41 @@
+body > p:first-child{
+	font-style: italic;
+}
+
+/*font style for First line of first paragraph of body*/
+body > p:first-child::first-line{
+	font-style: normal;
+	font-weight: bold;
+	text-transform: capitalize; /*Capitalize text */
+	text-decoration: underline; /*Set text to use underline */
+}
+
+.red-text{
+	color: red;
+}
+
+/* When lang=hi in an element set its font family and size */
+*[lang="hi"]{
+	font-family: 'Hind';
+	font-size: 23px;
+}
+
+p{
+	line-height: 3; /*Set line height 3 times multiple of font size */
+	text-align: right; /*Set text alignment to right */
+}
+
+div{
+	font: italic bold 20px "Arial"; /*Set font style to italic bold and 20px height with Arial font family*/
+	background: red; /*Set background color red */
+	color: white; /*Set color to white */
+}
+
+div[back="img"]{
+	color: black;
+	background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='49' viewBox='0 0 28 49'%3E%3Cg fill-rule='evenodd'%3E%3Cg id='hexagons' fill='%239C92AC' fill-opacity='0.4' fill-rule='nonzero'%3E%3Cpath d='M13.99 9.25l13 7.5v15l-13 7.5L1 31.75v-15l12.99-7.5zM3 17.9v12.7l10.99 6.34 11-6.35V17.9l-11-6.34L3 17.9zM0 15l12.98-7.5V0h-2v6.35L0 12.69v2.3zm0 18.5L12.98 41v8h-2v-6.85L0 35.81v-2.3zM15 0v7.5L27.99 15H28v-2.31h-.01L17 6.35V0h-2zm0 49v-8l12.99-7.5H28v2.31h-.01L17 42.15V49h-2z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+	word-spacing: 5px; /*Add word spacing 5px */
+	letter-spacing: 2px; /* Add letter spacing 2px */
+	text-indent: 20px; /* Add text indentation 20px */
+	white-space: pre; /* Show white spaces in browser */
+}
