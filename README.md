@@ -18,4 +18,4 @@ https://github.com/amit08255/100DaysOfFrontend/commit/430acfb551a43ff226d264a1c5
 ## Day 1
 
 Practical on font formatting in CSS. Worked on basic font formatting.
-
+https://github.com/amit08255/100DaysOfFrontend/commit/97e5f502e2a5c69e631bec6e718d146cb321f82a
