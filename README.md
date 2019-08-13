@@ -9,6 +9,7 @@
 
 - [Day 0](#day-0)
 - [Day 1](#day-1)
+- [Day 2](#day-2)
 
 ## Day 0
 
@@ -19,3 +20,7 @@ https://github.com/amit08255/100DaysOfFrontend/commit/430acfb551a43ff226d264a1c5
 
 Practical on font formatting in CSS. Worked on basic font formatting.
 https://github.com/amit08255/100DaysOfFrontend/commit/97e5f502e2a5c69e631bec6e718d146cb321f82a
+
+## Day 2
+
+Studied and worked on layouts in CSS. Practiced CSS width and height, background style, margin, and padding.
