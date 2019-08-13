@@ -24,3 +24,4 @@ https://github.com/amit08255/100DaysOfFrontend/commit/97e5f502e2a5c69e631bec6e71
 ## Day 2
 
 Studied and worked on layouts in CSS. Practiced CSS width and height, background style, margin, and padding.
+https://github.com/amit08255/100DaysOfFrontend/commit/7eb2681e361846a904fb7d21c2342230e705a558
