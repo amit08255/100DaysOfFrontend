@@ -10,6 +10,7 @@
 - [Day 0](#day-0)
 - [Day 1](#day-1)
 - [Day 2](#day-2)
+- [Day 3](#day-3)
 
 ## Day 0
 
@@ -25,3 +26,7 @@ https://github.com/amit08255/100DaysOfFrontend/commit/97e5f502e2a5c69e631bec6e71
 
 Studied and worked on layouts in CSS. Practiced CSS width and height, background style, margin, and padding.
 https://github.com/amit08255/100DaysOfFrontend/commit/7eb2681e361846a904fb7d21c2342230e705a558
+
+## Day 3
+
+Studied and worked on CSS relative and absolute positioning property.
