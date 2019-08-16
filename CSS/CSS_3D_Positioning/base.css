@@ -1,0 +1,51 @@
+div{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+}
+
+.box1{
+	background-color: red;
+	top: 40px;
+	left: 10px;
+	z-index: 1;
+}
+
+.box2{
+	background-color: blue;
+	top: 50px;
+	left: 150px;
+	z-index: 2;
+}
+
+.box3{
+	background-color: green;
+	top: 100px;
+	left: 100px;
+}
+
+.box4{
+	background-color: yellow;
+	top: 150px;
+	left: 50px;
+	z-index: 3;
+}
+
+.box5{
+	top: 500px;
+	left: 20px;
+	height: 500px;
+	border: 5px solid gray;
+	width: 500px;
+	overflow: hidden;
+}
+
+.box5 > img{
+	height: 400px;
+}
+
+.box5 > img:hover{
+	cursor: pointer;
+	height: 300px;
+	opacity: 0.5;
+}

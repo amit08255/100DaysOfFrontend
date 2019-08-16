@@ -11,6 +11,7 @@
 - [Day 1](#day-1)
 - [Day 2](#day-2)
 - [Day 3](#day-3)
+- [Day 4](#day-4)
 
 ## Day 0
 
@@ -31,3 +32,7 @@ https://github.com/amit08255/100DaysOfFrontend/commit/7eb2681e361846a904fb7d21c2
 
 Studied and worked on CSS relative and absolute positioning property.
 https://github.com/amit08255/100DaysOfFrontend/commit/1bfe103559d962aba76281d919a5fa039f1d0e50
+
+## Day 4
+
+Studied and worked on CSS 3D positioning of elements, handling element overflow, changing cursor and handling visibility of elements.
