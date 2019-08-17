@@ -12,6 +12,7 @@
 - [Day 2](#day-2)
 - [Day 3](#day-3)
 - [Day 4](#day-4)
+- [Day 5](#day-5)
 
 ## Day 0
 
@@ -37,3 +38,7 @@ https://github.com/amit08255/100DaysOfFrontend/commit/1bfe103559d962aba76281d919
 
 Studied and worked on CSS 3D positioning of elements, handling element overflow, changing cursor and handling visibility of elements.
 https://github.com/amit08255/100DaysOfFrontend/commit/b61f3475179e11a382189aaa7f8dca35d27baecb
+
+## Day 5
+
+Studied responsive CSS designing. How a layout fits to different screen sizes. Studied about viewport and standard screen sizes. No coding today, just studied the basics about responsive CSS designing.
