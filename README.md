@@ -13,6 +13,7 @@
 - [Day 3](#day-3)
 - [Day 4](#day-4)
 - [Day 5](#day-5)
+- [Day 6](#day-6)
 
 ## Day 0
 
@@ -42,3 +43,8 @@ https://github.com/amit08255/100DaysOfFrontend/commit/b61f3475179e11a382189aaa7f
 ## Day 5
 
 Studied responsive CSS designing. How a layout fits to different screen sizes. Studied about viewport and standard screen sizes. No coding today, just studied the basics about responsive CSS designing.
+
+## Day 6
+
+Studied and practice on media queries. Designed simple responsive webpage with responsive video adaptable to mobile and desktop screen. Studied about media queries print
+and how to hide element when you dont want them to be shown in print.
