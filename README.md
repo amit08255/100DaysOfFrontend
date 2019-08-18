@@ -48,3 +48,4 @@ Studied responsive CSS designing. How a layout fits to different screen sizes. S
 
 Studied and practice on media queries. Designed simple responsive webpage with responsive video adaptable to mobile and desktop screen. Studied about media queries print
 and how to hide element when you dont want them to be shown in print.
+https://github.com/amit08255/100DaysOfFrontend/commit/6492e44fbf72f98e5024d7619ae29b2f4726ce78
