@@ -14,6 +14,7 @@
 - [Day 4](#day-4)
 - [Day 5](#day-5)
 - [Day 6](#day-6)
+- [Day 7](#day-7)
 
 ## Day 0
 
@@ -49,3 +50,7 @@ Studied responsive CSS designing. How a layout fits to different screen sizes. S
 Studied and practice on media queries. Designed simple responsive webpage with responsive video adaptable to mobile and desktop screen. Studied about media queries print
 and how to hide element when you dont want them to be shown in print.
 https://github.com/amit08255/100DaysOfFrontend/commit/6492e44fbf72f98e5024d7619ae29b2f4726ce78
+
+## Day 7
+
+Studied about web fonts and different sources available to get web-fonts such as - Font squirrel, Google fonts etc. Studied about different methods how fonts can be linked to website such as through self hosting font files or through font web services, and how these two are different and advantage of using one method over other. Studied about font web quality and font rendering.
