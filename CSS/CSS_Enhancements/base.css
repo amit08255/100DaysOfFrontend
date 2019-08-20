@@ -1,0 +1,22 @@
+.round-image{
+	background: red url('back.png');
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+}
+
+.round-rect{
+	width: 100px;
+	height: 100px;
+	border-radius: 12px;
+	background: blue;
+	margin-top: 50px;
+}
+
+.one-round{
+	width: 100px;
+	height: 100px;
+	border-top-left-radius: 50%;
+	background: green;
+	margin-top: 50px;
+}

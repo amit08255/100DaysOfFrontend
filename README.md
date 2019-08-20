@@ -15,6 +15,7 @@
 - [Day 5](#day-5)
 - [Day 6](#day-6)
 - [Day 7](#day-7)
+- [Day 8](#day-8)
 
 ## Day 0
 
@@ -54,3 +55,7 @@ https://github.com/amit08255/100DaysOfFrontend/commit/6492e44fbf72f98e5024d7619a
 ## Day 7
 
 Studied about web fonts and different sources available to get web-fonts such as - Font squirrel, Google fonts etc. Studied about different methods how fonts can be linked to website such as through self hosting font files or through font web services, and how these two are different and advantage of using one method over other. Studied about font web quality and font rendering.
+
+## Day 8
+
+Studied about browser vendor prefixes used in CSS3 and why to use them. Started a new topic - CSS enhancements and did practical on border and border-radius in CSS3. Designed simple shapes with border-radius.
