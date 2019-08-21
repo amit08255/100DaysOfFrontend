@@ -16,6 +16,7 @@
 - [Day 6](#day-6)
 - [Day 7](#day-7)
 - [Day 8](#day-8)
+- [Day 9](#day-9)
 
 ## Day 0
 
@@ -60,3 +61,7 @@ Studied about web fonts and different sources available to get web-fonts such as
 
 Studied about browser vendor prefixes used in CSS3 and why to use them. Started a new topic - CSS enhancements and did practical on border and border-radius in CSS3. Designed simple shapes with border-radius.
 https://github.com/amit08255/100DaysOfFrontend/commit/f4797fcb4d9c97d6ccd375b2e0a809b35a2f6797
+
+## Day 9
+
+Studied about text and box shadow. Designed basic traffic light shape in CSS with shadow effect.
