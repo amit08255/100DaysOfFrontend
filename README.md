@@ -65,3 +65,4 @@ https://github.com/amit08255/100DaysOfFrontend/commit/f4797fcb4d9c97d6ccd375b2e0
 ## Day 9
 
 Studied about text and box shadow. Designed basic traffic light shape in CSS with shadow effect.
+https://github.com/amit08255/100DaysOfFrontend/commit/d07715a6c816a48c2c3d5993628968dc5aa7b4ce
