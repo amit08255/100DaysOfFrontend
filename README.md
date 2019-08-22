@@ -17,6 +17,7 @@
 - [Day 7](#day-7)
 - [Day 8](#day-8)
 - [Day 9](#day-9)
+- [Day 10](#day-10)
 
 ## Day 0
 
@@ -66,3 +67,7 @@ https://github.com/amit08255/100DaysOfFrontend/commit/f4797fcb4d9c97d6ccd375b2e0
 
 Studied about text and box shadow. Designed basic traffic light shape in CSS with shadow effect.
 https://github.com/amit08255/100DaysOfFrontend/commit/d07715a6c816a48c2c3d5993628968dc5aa7b4ce
+
+## Day 10
+
+Studied more about background images, opacity and gradient. Have to learn more about gradient designing in CSS.

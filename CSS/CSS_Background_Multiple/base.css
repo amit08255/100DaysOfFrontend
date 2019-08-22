@@ -1,0 +1,15 @@
+.two-background{
+	height: 300px;
+	width: 75%;
+	background-color: black;
+	background-image: url(back2.png);
+	background-position: 100px,100px;
+	background-repeat: no-repeat;
+	opacity: 0.6;
+}
+
+.gradient-background{
+	height: 300px;
+	width: 75%;
+	background: linear-gradient(top, #ff0000 0% , #00ff00 50% , #0000ff 100% );
+}
