@@ -71,3 +71,4 @@ https://github.com/amit08255/100DaysOfFrontend/commit/d07715a6c816a48c2c3d599362
 ## Day 10
 
 Studied more about background images, opacity and gradient. Have to learn more about gradient designing in CSS.
+https://github.com/amit08255/100DaysOfFrontend/commit/779987db8b30006837158744c65c28b1588ef676
