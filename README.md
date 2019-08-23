@@ -18,6 +18,7 @@
 - [Day 8](#day-8)
 - [Day 9](#day-9)
 - [Day 10](#day-10)
+- [Day 11](#day-11)
 
 ## Day 0
 
@@ -72,3 +73,7 @@ https://github.com/amit08255/100DaysOfFrontend/commit/d07715a6c816a48c2c3d599362
 
 Studied more about background images, opacity and gradient. Have to learn more about gradient designing in CSS.
 https://github.com/amit08255/100DaysOfFrontend/commit/779987db8b30006837158744c65c28b1588ef676
+
+## Day 11
+
+Studied about HTML lists and manipulating lists with CSS. Using image as list marker and controlling markers in list.

@@ -1,0 +1,14 @@
+.list-1{
+	list-style-type: lower-alpha;
+}
+
+.list-2 li{
+	background-image: url(arrow.png);
+	background-size: 15px 15px;
+	background-repeat: no-repeat;
+	padding-left: 20px
+}
+
+.list-2{
+	list-style-type: none;
+}
