@@ -19,6 +19,7 @@
 - [Day 9](#day-9)
 - [Day 10](#day-10)
 - [Day 11](#day-11)
+- [Day 12](#day-12)
 
 ## Day 0
 
@@ -78,3 +79,7 @@ https://github.com/amit08255/100DaysOfFrontend/commit/779987db8b30006837158744c6
 
 Studied about HTML lists and manipulating lists with CSS. Using image as list marker and controlling markers in list.
 https://github.com/amit08255/100DaysOfFrontend/commit/064906aee887bb2d7205be85c4ed8f7438ad910b
+
+## Day 12
+
+Studied about HTML description list and worked on simple description list manipulation with CSS.
