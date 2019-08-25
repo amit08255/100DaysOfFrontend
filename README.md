@@ -83,3 +83,4 @@ https://github.com/amit08255/100DaysOfFrontend/commit/064906aee887bb2d7205be85c4
 ## Day 12
 
 Studied about HTML description list and worked on simple description list manipulation with CSS.
+https://github.com/amit08255/100DaysOfFrontend/commit/49a9e3e399dc492e46234b3c9f520e5a6c77ce98
