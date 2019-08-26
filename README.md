@@ -20,6 +20,7 @@
 - [Day 10](#day-10)
 - [Day 11](#day-11)
 - [Day 12](#day-12)
+- [Day 13](#day-13)
 
 ## Day 0
 
@@ -84,3 +85,7 @@ https://github.com/amit08255/100DaysOfFrontend/commit/064906aee887bb2d7205be85c4
 
 Studied about HTML description list and worked on simple description list manipulation with CSS.
 https://github.com/amit08255/100DaysOfFrontend/commit/49a9e3e399dc492e46234b3c9f520e5a6c77ce98
+
+## Day 13
+
+Studied and worked on HTML form manipulation with CSS.
