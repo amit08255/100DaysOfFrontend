@@ -21,6 +21,7 @@
 - [Day 11](#day-11)
 - [Day 12](#day-12)
 - [Day 13](#day-13)
+- [Day 14](#day-14)
 
 ## Day 0
 
@@ -90,3 +91,7 @@ https://github.com/amit08255/100DaysOfFrontend/commit/49a9e3e399dc492e46234b3c9f
 
 Studied and worked on HTML form manipulation with CSS.
 https://github.com/amit08255/100DaysOfFrontend/commit/154309e073a7b76c3c3db15691b20ce4825ecc3e
+
+## Day 14
+
+Continued working on HTML form manipulation with CSS.
