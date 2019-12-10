@@ -102,3 +102,8 @@ https://github.com/amit08255/100DaysOfFrontend/commit/ce933c02a394047cb8917babe7
 
 Designed a beautiful cute koala bear using CSS positioning, background styles, border styles and polygon shape.
 https://github.com/amit08255/100DaysOfFrontend/commit/e83ede98a9799c4f7d4ec9256c486bae9fc7e7d1
+
+## Day 16
+
+Continued course on designing images in CSS. Designed simple pizza with CSS z-index property.
+https://github.com/amit08255/100DaysOfFrontend/commit/49d4a04dd902b7353af18816f6c1ffd128b3797c
